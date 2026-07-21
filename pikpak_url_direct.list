@@ -1,2 +1,3 @@
 DOMAIN-REGEX,^dl-[^.]+\.mypikpak\..+$
 DOMAIN-KEYWORD,hub5pn.mypikpak
+DOMAIN,dl.pikpak.io
